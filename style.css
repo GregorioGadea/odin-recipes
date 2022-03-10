@@ -1,0 +1,19 @@
+#logo {
+    text-align: center;
+    color: black;
+}
+
+#receitas img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    border-radius: 20px;
+    height: auto;
+    width: 300px;
+    
+}
+
+#receitas {
+    text-align: center;
+}
